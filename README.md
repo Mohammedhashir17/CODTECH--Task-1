@@ -1,3 +1,4 @@
+![task1](https://github.com/user-attachments/assets/44d0e5c7-5a79-4379-a7f5-9a3aba5f7aea)
 # CODTECH-Task--1
 
 Name: MD HASHIR A J
@@ -42,3 +43,6 @@ In summary, this code performs the following steps for building a simple linear 
 * Trains a linear regression model.
 * Predicts salaries for the test set.
 * Visualizes the results to understand the model's performance.
+![task1](https://github.com/user-attachments/assets/3bdf831f-8186-47ca-bbce-336646a7d460)
+
+
