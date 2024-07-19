@@ -1,4 +1,4 @@
-![task1](https://github.com/user-attachments/assets/44d0e5c7-5a79-4379-a7f5-9a3aba5f7aea)
+
 # CODTECH-Task--1
 
 Name: MD HASHIR A J
