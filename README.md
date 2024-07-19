@@ -43,6 +43,8 @@ In summary, this code performs the following steps for building a simple linear 
 * Trains a linear regression model.
 * Predicts salaries for the test set.
 * Visualizes the results to understand the model's performance.
+
+
 ![task1](https://github.com/user-attachments/assets/3bdf831f-8186-47ca-bbce-336646a7d460)
 
 
